@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4441d346-a888-49e1-8ed6-d24645bdcbda" name="CS50" url="http://192.168.56.101/wallet-lib">
+        <fileTransfer host="192.168.56.101" port="22" rootFolder="/home/jharvard/" accessType="SFTP" password="dfc9dfd8dfc3dfc7dfd9dfc5dfc4" username="jharvard">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
