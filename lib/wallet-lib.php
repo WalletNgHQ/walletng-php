@@ -7,10 +7,10 @@
  */
 
 if (!function_exists('curl_init')) {
-    throw new Exception('ACE API LIBRARY needs the CURL PHP extension.');
+    throw new Exception('WALLET API LIBRARY needs the CURL PHP extension.');
 }
 if (!function_exists('json_decode')) {
-    throw new Exception('ACE API LIBRARY needs the JSON PHP extension.');
+    throw new Exception('WALLET API LIBRARY needs the JSON PHP extension.');
 }
 
 // Config and Utilities
